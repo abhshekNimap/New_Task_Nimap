@@ -1,0 +1,3 @@
+C:\Users\Nimap\Desktop\Tutorial\NewMovieReleaseAPI\NewMovieReleaseAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nimap\Desktop\Tutorial\NewMovieReleaseAPI\NewMovieReleaseAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nimap\Desktop\Tutorial\NewMovieReleaseAPI\NewMovieReleaseAPI\obj\Debug\net8.0\staticwebassets.build.json

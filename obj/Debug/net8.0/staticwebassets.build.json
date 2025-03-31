@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Y4soncSfYB29WthffJtNAbHwQEucdQ9NrW0DkgvUvIQ=",
+  "Source": "MovieDetailsAPI",
+  "BasePath": "_content/MovieDetailsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Nimap\\Desktop\\Tutorial\\NewMovieReleaseAPI\\NewMovieReleaseAPI\\NewMovieReleaseAPI.csproj",
+      "Version": 2,
+      "Source": "NewMovieReleaseAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
